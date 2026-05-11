@@ -1,4 +1,4 @@
-
+smart Tool for Parallels Desktop for macOS - custom-actions and CPU-monitoring offers the most advanced Parallels Desktop for macOS tool, with custom-actions and CPU-monitoring.
 
 
 
